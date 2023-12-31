@@ -13,7 +13,9 @@
 
 <div>
   <p align=center>
-     <em>What we know is a droplet, what we don't know is an ocean.”</em>
+     <em>"What we know is a droplet, what we don't know is an ocean.”<br><br>
+     - <strong>Isaac Newton</strong>.
+     </em>
   </p>
 </div>
 
