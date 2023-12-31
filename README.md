@@ -19,11 +19,12 @@
 
 
 <div align=left>
-  <div style="display: inline_block"><br>
-    <h2 align="center">My Skills</h2>
+  <div style="display: inline_block">
+    <hr>
+    <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My skills</h3>
+    <img src="https://github.com/josuejr3/josuejr3/assets/100161905/c24a27cc-e79c-4dc2-b7d8-d07d1b451c7c" align="right" width="450" height="450"></img>
     <h4>Main Programming Languages</h4>
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"></img>
-      <img src="https://github.com/josuejr3/josuejr3/assets/100161905/c24a27cc-e79c-4dc2-b7d8-d07d1b451c7c" align="right" width="450" height="450"></img>
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"></img>
     <h4>Secundary Programming Languages</h4>
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"></img>
