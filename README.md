@@ -1,16 +1,56 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?&type=waving&color=00b300&height=120&section=header"/>
 
-<!--
-**josuejr3/josuejr3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1aff1a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Josué+Júnior;I'm+23+years+old;I+am+from+Campina+Grande,+PB;I+study+computer+engineering+at+IFPB;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=josuejr3&show_icons=true&theme=shadow_green&include_all_comits=true&count=private=true&hide_border=true&title_color=1aff1a&icon_color=66ff66&text_color=00cc00&bg_color=001a00"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuejr3&layout=compact&hide_border=true&title_color=1aff1a&bg_color=001a00&text_color=00cc00&langs_count=&theme=shadow_green"/>
+
+
+</div>
+<br>
+
+<div>
+  <p align=center>
+     <em>What we know is a droplet, what we don't know is an ocean.”</em>
+  </p>
+</div>
+
+
+<div align=left>
+  <div style="display: inline_block"><br>
+    <h2 align="center">My Skills</h2>
+    <h4>Main Programming Languages</h4>
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"></img>
+      <img src="https://github.com/josuejr3/josuejr3/assets/100161905/c24a27cc-e79c-4dc2-b7d8-d07d1b451c7c" align="right" width="450" height="450"></img>
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"></img>
+    <h4>Secundary Programming Languages</h4>
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"></img>
+    <h4>Studying in This Moment</h4>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"></img>
+    <h4>Workstation Tools</h4>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"></img>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png" width="40" height="40"></img>
+    <h4>Contacts</h4>
+    <a href="https://www.linkedin.com/in/josue-gennu/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40"></img></a>
+    <a href="https://www.instagram.com/juzas_/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/900px-Instagram_logo_2022.svg.png?20220518162235" width="40"
+    height="40">  
+  </div>
+</div>
+
+<div>
+  <hr>
+</div>
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=josuejr3&bg_color=000000&color=0bc10b&area_color=13ec13&line=0da50d&point=5af25a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{josuejr3}/count.svg" /></p> 
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?&type=waving&color=00b300&height=120&section=footer"/>
+
