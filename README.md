@@ -37,10 +37,12 @@
     <h4>Workstation Tools</h4>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"></img>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png" width="40" height="40"></img>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-cmake-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-2-pack-logos-icons-3029914.png" width=40 height=40></img>
     <h4>Contacts</h4>
     <a href="https://www.linkedin.com/in/josue-ferreira/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40"></img></a>
     <a href="https://www.instagram.com/juzas_/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/900px-Instagram_logo_2022.svg.png?20220518162235" width="40"
-    height="40">  
+    height="40">
+    
   </div>
 </div>
 
