@@ -30,10 +30,6 @@
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"></img>
     <h4>Secundary Programming Languages</h4>
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"></img>
-    <h4>Studying in This Moment</h4>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"></img>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"></img>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"></img>
     <h4>Workstation Tools</h4>
     <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" width="40" height="40"></img>
     <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" width="40" height="40"></img>
