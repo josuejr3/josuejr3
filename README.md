@@ -35,7 +35,6 @@
     <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" width="40" height="40"></img>
     <img src="https://icon.icepanel.io/Technology/svg/CMake.svg" width=40 height=40></img>
     <img src="https://icon.icepanel.io/Technology/svg/CLion.svg" width=40 height=40></img>
-    <img src="https://icon.icepanel.io/Technology/svg/NetworkX.svg" width=40 height=40></img>
     <h4>Contacts</h4>
     <a href="https://www.linkedin.com/in/josue-ferreira/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40"></img></a>
     <a href="https://www.instagram.com/juzas_/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/900px-Instagram_logo_2022.svg.png?20220518162235" width="40"
