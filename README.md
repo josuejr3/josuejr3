@@ -33,6 +33,7 @@
     <h4>Workstation Tools</h4>
     <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" width="40" height="40"></img>
     <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" width="40" height="40"></img>
+    <img src="https://icon.icepanel.io/Technology/svg/Jupyter.svg" width="40" height="40"></img>
     <img src="https://icon.icepanel.io/Technology/svg/CMake.svg" width=40 height=40></img>
     <img src="https://icon.icepanel.io/Technology/svg/CLion.svg" width=40 height=40></img>
     <h4>Contacts</h4>
