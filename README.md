@@ -29,7 +29,7 @@
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"></img>
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"></img>
     <h4>Secundary Programming Languages</h4>
-    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"></img>
+    <img align="center" src="https://icon.icepanel.io/Technology/svg/C.svg" width="40" height="40"></img>
     <!--<img align="center" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" width="40" height="40" ></img>-->
     <h4>Workstation Tools</h4>
     <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" width="40" height="40"></img>
