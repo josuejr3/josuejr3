@@ -52,11 +52,6 @@
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=josuejr3&bg_color=000000&color=0bc10b&area_color=13ec13&line=0da50d&point=5af25a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{josuejr3}/count.svg" /></p> 
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?&type=waving&color=00b300&height=120&section=footer"/>
 
 
