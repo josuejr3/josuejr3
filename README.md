@@ -36,19 +36,22 @@
     <hr>
     <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My skills</h3>
     <img src="https://github.com/josuejr3/josuejr3/assets/100161905/c24a27cc-e79c-4dc2-b7d8-d07d1b451c7c" align="right" width="450" height="450"></img>
-    <h4>Main Programming Languages</h4>
+    <h4>Main Technologies</h4>
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"></img>
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"></img>
-    <h4>Currently learning</h4>
+    <img align="center" src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width=40 height=40></img>
+    <img align="center" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width=40 height=40></img>
+    <h4>Currently Learning</h4>
     <img align="center" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" width="40" height="40"></img>
+    <img align="center" src="https://icon.icepanel.io/Technology/svg/MATLAB.svg" width="40" height="40"></img>
+    <img align="center" src="https://icon.icepanel.io/Technology/svg/Docker.svg" width="40" height="40"></img>
     <!--<img align="center" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" width="40" height="40" ></img>-->
     <h4>Workstation Tools</h4>
-    <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" width="40" height="40"></img>
-    <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" width="40" height="40"></img>
-    <img src="https://icon.icepanel.io/Technology/svg/Jupyter.svg" width="40" height="40"></img>
-    <img src="https://icon.icepanel.io/Technology/svg/CMake.svg" width=40 height=40></img>
-    <img src="https://icon.icepanel.io/Technology/svg/CLion.svg" width=40 height=40></img>
-    <img src="https://icon.icepanel.io/Technology/png-shadow-512/LaTeX.png" width=40 height=40></img>
+    <img align="center" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" width="40" height="40"></img>
+    <img align="center" src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" width="40" height="40"></img>
+    <img align="center" src="https://icon.icepanel.io/Technology/svg/CMake.svg" width=40 height=40></img>
+    <img align="center" src="https://icon.icepanel.io/Technology/svg/CLion.svg" width=40 height=40></img>
+    <img align="center" src="https://icon.icepanel.io/Technology/png-shadow-512/LaTeX.png" width=40 height=40></img>
     <h4>Contacts</h4>
     <a href="https://www.linkedin.com/in/josue-ferreira/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40"></img></a>
     <a href="https://www.instagram.com/juzas_/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/900px-Instagram_logo_2022.svg.png?20220518162235" width="40"
